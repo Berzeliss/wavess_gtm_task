@@ -19,8 +19,8 @@ Newly announced partnerships.
 ### Expansion
 Announcements about expanding into new countries or markets.
 
-### Job Openings
-Postings of looking for new workers.
+### Hiring
+Postings of looking for new workers and new leadership announcements.
 
 ### Financial Reports
 Revenue growth/drop, fundraising events.
