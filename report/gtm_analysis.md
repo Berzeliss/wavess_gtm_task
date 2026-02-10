@@ -14,6 +14,7 @@ I have manually collected 12 different market signals for Revolut. These signals
 
 ## Signal Count by Region
 |Region     |Signal Count|
+|-----------|------------|
 |Global     |7           |
 |Europe     |1           |
 |Mexico     |1           |
